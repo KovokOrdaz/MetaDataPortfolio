@@ -3,23 +3,23 @@
   "NameLast": "Ordaz",
   "Job": "Computer Science Engine",
   "Mail": "MarioOrdazV@gmail.com",
+  "Linkedin": "https://www.linkedin.com/in/marioordazv/",
+  "Github": "https://github.com/KovokOrdaz/",
+  "Computrabajo": "hola.net",
   "Phone": "",
   "Direction": "El Morro de Puerto Santo, Sucre, Venezuela",
   "Languages": [
     {
       "Name": "Espa;ol",
-      "Level": "Nativo"
+      "Level": "Native"
     },
     {
       "Name": "English",
-      "Level": "None"
+      "Level": "Basic"
     }
   ],
   "AboutMe": "Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim",
   "Experience": "3 years",
-  "Clients": "3",
-  "Projects": "4",
-  "Linkedin": "https://www.linkedin.com/in/marioordazv/",
-  "Github": "https://github.com/KovokOrdaz/",
- "Computrabajo": "hola.net"
+  "Clients": 3,
+  "Projects": 4
 }
