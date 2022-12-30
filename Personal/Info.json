@@ -1,8 +1,10 @@
 {
   "NameFirst": "Mario",
+  "NameSecond":"Alberto",
   "NameLast": "Ordaz",
   "Job": "Computer Science Engine",
-  "Mail": "MarioOrdazV@gmail.com",
+  "Acronym": "Ing.",
+  "Mail": "MarioOrdazV@Gmail.com",
   "Linkedin": "https://www.linkedin.com/in/marioordazv/",
   "Github": "https://github.com/KovokOrdaz/",
   "Computrabajo": "https://hola.net",
