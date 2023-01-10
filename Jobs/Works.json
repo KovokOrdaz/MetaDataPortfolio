@@ -10,6 +10,33 @@
       "Demo": "https://github.com/KovokOrdaz/Angular-MarketAlfa"
     },
     {
+      "Name": "ClimateAngularApp",
+      "Image": "https://raw.githubusercontent.com/KovokOrdaz/MetaDataPortfolio/main/Jobs/Work/moviereactapp.png",
+      "Tech": "Angular",
+      "Description": "LLorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
+      "Date": "11/17/2022",
+      "Git": "https://github.com/KovokOrdaz/ClimateAngularAPP",
+      "Demo": "https://kovokordaz.github.io/ClimateAngularAPP/"
+    },
+    {
+      "Name": "MovieReactApp",
+      "Image": "https://raw.githubusercontent.com/KovokOrdaz/MetaDataPortfolio/main/Jobs/Work/moviereactapp.png",
+      "Tech": "React",
+      "Description": "LLorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
+      "Date": "11/17/2022",
+      "Git": "https://github.com/KovokOrdaz/MovieReactApp",
+      "Demo": "https://kovokordaz.github.io/MovieReactApp/"
+    },
+    {
+      "Name": "Resturante",
+      "Image": "https://raw.githubusercontent.com/KovokOrdaz/MetaDataPortfolio/main/Jobs/Work/restaurant.png",
+      "Tech": "HTML, CSS, JAVASCRIPT",
+      "Description": "LLorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
+      "Date": "11/17/2022",
+      "Git": "https://github.com/KovokOrdaz/restaurant",
+      "Demo": "https://kovokordaz.github.io/restaurant/"
+    },
+    {
       "Name": "Old Portfolio",
       "Image": "https://raw.githubusercontent.com/KovokOrdaz/MetaDataPortfolio/main/Jobs/Work/oldportfolio.png",
       "Tech": "HTML, CSS, JAVASCRIPT",
@@ -17,24 +44,6 @@
       "Date": "11/17/2022",
       "Git": "https://github.com/KovokOrdaz/OldPortfolio/",
       "Demo": "https://kovokordaz.github.io/OldPortfolio/"
-    },
-    {
-      "Name": "Prueba 1",
-      "Image": "../../assets/Wako.png",
-      "Tech": "HTML, CSS, JAVASCRIPT",
-      "Description": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "Date": "11/17/2022",
-      "Git": "www.github.com",
-      "Demo": "www.github.com"
-    },
-    {
-      "Name": "Prueba 1",
-      "Image": "../../assets/Wako.png",
-      "Tech": "HTML, CSS, JAVASCRIPT",
-      "Description": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "Date": "11/17/2022",
-      "Git": "www.github.com",
-      "Demo": "www.github.com"
     }
   ]
 }
