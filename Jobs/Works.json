@@ -4,7 +4,7 @@
       "Name": "MarketAlfa",
       "Image": "https://raw.githubusercontent.com/KovokOrdaz/MetaDataPortfolio/main/Jobs/Work/marketalfa.png",
       "Tech": "Angular, C#, SQLSERVER",
-      "Description": "LLorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
+      "Description": "AppWeb is an E-Store is Developed with Angular and native style Material *OffLine*",
       "Date": "11/17/2022",
       "Git": "https://github.com/KovokOrdaz/Angular-MarketAlfa",
       "Demo": "https://github.com/KovokOrdaz/Angular-MarketAlfa"
@@ -13,7 +13,7 @@
       "Name": "ClimateAngularApp",
       "Image": "https://raw.githubusercontent.com/KovokOrdaz/MetaDataPortfolio/main/Jobs/Work/climateangular.png",
       "Tech": "Angular",
-      "Description": "LLorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
+      "Description": "Weather AppWeb with Auto-Geolocation Developed with Angular and Bulma's native style",
       "Date": "11/17/2022",
       "Git": "https://github.com/KovokOrdaz/ClimateAngularAPP",
       "Demo": "https://kovokordaz.github.io/ClimateAngularAPP/"
@@ -22,7 +22,7 @@
       "Name": "MovieReactApp",
       "Image": "https://raw.githubusercontent.com/KovokOrdaz/MetaDataPortfolio/main/Jobs/Work/moviereactapp.png",
       "Tech": "React",
-      "Description": "LLorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
+      "Description": "AppWeb that shows the latest Premiere Movies Developed with React and Bootstrap's native style",
       "Date": "11/17/2022",
       "Git": "https://github.com/KovokOrdaz/MovieReactApp",
       "Demo": "https://kovokordaz.github.io/MovieReactApp/"
@@ -31,7 +31,7 @@
       "Name": "Resturante",
       "Image": "https://raw.githubusercontent.com/KovokOrdaz/MetaDataPortfolio/main/Jobs/Work/restaurant.png",
       "Tech": "HTML, CSS, JAVASCRIPT",
-      "Description": "LLorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
+      "Description": "Simple web page of a Cafeteria developed in traditional Web Technologies with Own CSS Style",
       "Date": "11/17/2022",
       "Git": "https://github.com/KovokOrdaz/restaurant",
       "Demo": "https://kovokordaz.github.io/restaurant/"
@@ -40,7 +40,7 @@
       "Name": "Old Portfolio",
       "Image": "https://raw.githubusercontent.com/KovokOrdaz/MetaDataPortfolio/main/Jobs/Work/oldportfolio.png",
       "Tech": "HTML, CSS, JAVASCRIPT",
-      "Description": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
+      "Description": "Old Portfolio developed in Traditional Web Technologies with Own CSS Style",
       "Date": "11/17/2022",
       "Git": "https://github.com/KovokOrdaz/OldPortfolio/",
       "Demo": "https://kovokordaz.github.io/OldPortfolio/"

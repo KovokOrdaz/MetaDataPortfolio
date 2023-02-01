@@ -1,22 +1,13 @@
 {
   "Content": [
     {
-      "Name": "UI/UX",
+      "Name": "Mobile",
       "Description": [
         {
-          "Item": "Lorem, ipsum dolor sit amet consectetur elit."
+          "Item": "Native Development"
         },
         {
-          "Item": "Lorem, ipsum dolor sit amet consectetur elit."
-        },
-        {
-          "Item": "Lorem, ipsum dolor sit amet consectetur elit."
-        },
-        {
-          "Item": "Lorem, ipsum dolor sit amet consectetur elit."
-        },
-        {
-          "Item": "Lorem, ipsum dolor sit amet consectetur elit."
+          "Item": "Hybrid Development"
         }
       ]
     },
@@ -24,19 +15,16 @@
       "Name": "WEB",
       "Description": [
         {
-          "Item": "Lorem, ipsum dolor sit amet consectetur elit."
+          "Item": "Responsive Design"
         },
         {
-          "Item": "Lorem, ipsum dolor sit amet consectetur elit."
+          "Item": "Database Web Design"
         },
         {
-          "Item": "Lorem, ipsum dolor sit amet consectetur elit."
+          "Item": "Server Management"
         },
         {
-          "Item": "Lorem, ipsum dolor sit amet consectetur elit."
-        },
-        {
-          "Item": "Lorem, ipsum dolor sit amet consectetur elit."
+          "Item": "API's Design"
         }
       ]
     },
@@ -44,19 +32,16 @@
       "Name": "DESKTOP",
       "Description": [
         {
-          "Item": "Lorem, ipsum dolor sit amet consectetur elit."
+          "Item": "Native Development"
         },
         {
-          "Item": "Lorem, ipsum dolor sit amet consectetur elit."
+          "Item": "Multiparadigm Development"
         },
         {
-          "Item": "Lorem, ipsum dolor sit amet consectetur elit."
+          "Item": "Graphic Interface Design"
         },
         {
-          "Item": "Lorem, ipsum dolor sit amet consectetur elit."
-        },
-        {
-          "Item": "Lorem, ipsum dolor sit amet consectetur elit."
+          "Item": "Database Design"
         }
       ]
     }

@@ -5,39 +5,39 @@
       "Tech": [
         {
           "Name": "HTML",
-          "Level": "Avanzado"
+          "Level": "Advanced"
         },
         {
           "Name": "CSS",
-          "Level": "Intermedio"
+          "Level": "Intermediate"
         },
         {
           "Name": "SASS",
-          "Level": "Basico"
+          "Level": "Basic"
         },
         {
           "Name": "JavaScript",
-          "Level": "Intermedio"
+          "Level": "Intermediate"
         },
         {
           "Name": "Material",
-          "Level": "Basico"
+          "Level": "Basic"
         },
         {
           "Name": "Bootstrap",
-          "Level": "Intermedio"
+          "Level": "Intermediate"
         },
         {
           "Name": "Angular",
-          "Level": "Intermedio"
+          "Level": "Intermediate"
         },
         {
           "Name": "VueJS",
-          "Level": "Basico"
+          "Level": "Basic"
         },
         {
           "Name": "ReactJS",
-          "Level": "Basico"
+          "Level": "Intermediate"
         }
       ]
     },
@@ -46,27 +46,27 @@
       "Tech": [
         {
           "Name": "C#",
-          "Level": "Intermedio"
+          "Level": "Intermediate"
         },
         {
           "Name": "PHP",
-          "Level": "Intermedio"
+          "Level": "Intermediate"
         },
         {
           "Name": "Python",
-          "Level": "Intermedio"
+          "Level": "Intermediate"
         },
         {
           "Name": "Java",
-          "Level": "Basico"
+          "Level": "Basic"
         },
         {
           "Name": "MySQL",
-          "Level": "Intermedio"
+          "Level": "Intermediate"
         },
         {
           "Name": "SQLSERVER",
-          "Level": "Intermedio"
+          "Level": "Intermediate"
         },
         {
           "Name": "SQLite",
@@ -74,15 +74,15 @@
         },
         {
           "Name": "PosgreSQL",
-          "Level": "Intermedio"
+          "Level": "Intermediate"
         },
         {
           "Name": "NodeJS",
-          "Level": "Basico"
+          "Level": "Basic"
         },
         {
           "Name": "TypeScript",
-          "Level": "Basico"
+          "Level": "Basic"
         }
       ]
     }
